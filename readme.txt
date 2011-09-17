@@ -18,7 +18,7 @@ Displays your Google+ profile pic, short information and link to your Google+ pr
 
 1. Unzip the downloaded Google-Badge zip file
 2. Upload the `Google-Badge` folder and its contents into the `wp-content/plugins/` directory of your WordPress installation
-3. Activate WP-Paginate from Plugins page
+3. Activate Google-Badge from Plugins page
 
 *Implement*
 
